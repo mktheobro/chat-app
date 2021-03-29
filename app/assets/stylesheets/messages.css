@@ -49,6 +49,7 @@
   background-color: #FFFFFF;
   width: calc(100vw - 300px);
 }
+
 .chat-header {
   height: 100px;
   padding: 0 40px;
@@ -118,8 +119,8 @@
 
 .form-input {
   background-color: white;
-  width: 100%;
   display: flex;
+  width: 100%;
 }
 
 .form-message {
